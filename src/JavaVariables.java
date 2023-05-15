@@ -24,5 +24,12 @@ public class JavaVariables {
         boolean myBool = true;
         String myText = "Glenn Maxwell";
 
+        // Print Variables
+        System.out.println("Hello "+myText);
+        System.out.println(myNum + myNumber);
+        System.out.println(myFloatNum);
+        System.out.println(myBool);
+        System.out.println(myLetter);
+
     }
 }
