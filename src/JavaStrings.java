@@ -10,6 +10,7 @@ public class JavaStrings {
     */
     
     String greeting = "Hello";
+    System.out.println(greeting);
 
     // A String in Java is actually an object, which contain methods that can perform certain operations on strings. For example, the length of a string can be found with the length() method
     String txt1 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
