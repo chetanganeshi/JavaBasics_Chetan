@@ -28,7 +28,7 @@ public class JavaOOPS {
 
         A Class is like an object constructor, or a "blueprint" for creating objects.
 
-        Create a Class:
+        Create a Class: 
         To create a class, use the keyword class.
 
         Create an Object:
