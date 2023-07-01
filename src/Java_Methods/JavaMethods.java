@@ -98,7 +98,7 @@ public class JavaMethods {
     Just as loops can run into the problem of infinite looping, recursive functions can run into the problem of infinite recursion. Infinite recursion is when the function never stops calling itself. Every recursive function should have a halting condition, which is the condition where the function stops calling itself.
     */
 
-    public static int sum(int k) {
+    static int sum(int k) {
         if (k > 0) {
             return k + sum(k - 1);
         } else {
