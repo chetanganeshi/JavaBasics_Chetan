@@ -20,7 +20,7 @@ public class JavaOOPS {
         When the individual objects are created, they inherit all the variables and methods from the class.
 
 
-        Java Classes/Objects:
+        Java Classes/Objects: 
 
         Java is an object-oriented programming language.
 
